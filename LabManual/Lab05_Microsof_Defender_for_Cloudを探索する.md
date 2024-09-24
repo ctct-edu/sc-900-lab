@@ -1,6 +1,6 @@
 # ラボ05：Microsof  Defender for Cloud を探索する
 
-#### 推定時間: 10 分
+#### 推定時間: 30 分
 
 
 
