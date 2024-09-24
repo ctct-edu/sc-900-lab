@@ -86,7 +86,7 @@
 
 ## タスク4 - Office 365 にアクセスし、MFAを検証する
 
-1. https://entra.microsoft.com/ へアクセスします。
+1. https://office.com/ へアクセスします。
 
    > 注:XXXXはご自身のアカウント番号を入力してください。
    >
