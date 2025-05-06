@@ -102,7 +102,7 @@
 
    ※↓[ID]は[Microsoft Entra 管理センター]が表示されます。
 
-   　(Microsoft Authenticator による多要素認証が必要です。可能な場合のみお試しください。)
+   　(Microsoft Authenticator による多要素認証が必要です。難しい場合は省略可能。)
 
    ![](./media/lab1-6.png)
 
