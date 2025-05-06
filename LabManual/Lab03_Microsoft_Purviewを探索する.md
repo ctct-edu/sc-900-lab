@@ -1,4 +1,4 @@
-# ラボ02：Microsoft Purview を探索する
+# ラボ03：Microsoft Purview を探索する
 
 #### 推定時間: 30 分
 
