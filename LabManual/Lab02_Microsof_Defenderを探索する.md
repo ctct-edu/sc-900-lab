@@ -27,25 +27,7 @@
 
    
 
-### タスク 2 - 露出管理を表示する
-
-> [解説]
->
-> **Microsoft Defender の露出管理**（**Microsoft Defender External Attack Surface Management：EASM**）は、組織が外部からどのように見えるか、つまり攻撃者視点での[攻撃対象領域（Attack Surface）]を可視化・管理するための機能です。これにより、外部に公開されている資産や潜在的な脆弱性を特定し、リスクを低減することが可能になります。
->
-> https://www.microsoft.com/ja-jp/security/business/cloud-security/microsoft-defender-external-attack-surface-management
->
-> 注：ハイパーリンクを開く際は、リンクを右クリックし[新しいタブで開く]等で開いてください。
-
-
-
-1. 左側のナビゲーション メニューの [露出管理]をクリックし、[概要]をクリックします。
-
-   > 注：クリック後に2～3分ほど収集に時間がかかります。画面が変わらない場合はWebブラウザを再読み込みしてください。
-
-   ![](./media/lab3-1.png)
-
-2. [露出管理の概要]ページが表示されます。全体を一通り確認します。
+### タスク 2 - セキュアスコアを表示す
 
 3. 左側のナビゲーション メニューの [セキュアスコア]をクリックします。
 
@@ -65,69 +47,7 @@
 
 
 
-### タスク 3 - 脅威インテリジェンスを表示する
-
-> [解説]
->
-> **Microsoft Defender 脅威インテリジェンス** (**Defender** TI) は、**脅威**インフラストラクチャ分析を実施し、**脅威インテリジェンス**を収集するときにトリアージ、インシデント対応、**脅威**ハンティング、脆弱性管理、**脅威インテリジェンス** アナリスト のワークフローを合理化するプラットフォームです。
->
-> https://learn.microsoft.com/ja-jp/defender/threat-intelligence/what-is-microsoft-defender-threat-intelligence-defender-ti
->
-> 注：ハイパーリンクを開く際は、リンクを右クリックし[新しいタブで開く]等で開いてください。
-
-
-
-1. 左側のナビゲーション メニューの [脅威インテリジェンス]をクリックし、[脅威の分析]をクリックします。
-
-   ![](./media/lab3-3.png)
-
-2. [脅威の分析]ページが表示されます。全体を一通り確認します。
-
-
-
-### タスク 4 - エンドポイントを表示する
-
-> [解説]
->
-> **Microsoft Defender 脆弱性管理ダッシュボード**（**Microsoft Defender Vulnerability Management Dashboard**）は、組織内のデバイスやアプリケーションの脆弱性を一元的に可視化・管理するためのツールです。このダッシュボードは、脆弱性の特定、リスク評価、優先順位付け、修正作業のガイドを提供し、**サイバー攻撃のリスク低減**と**セキュリティ体制の強化**を支援します。
->
-> https://learn.microsoft.com/ja-jp/defender-vulnerability-management/tvm-dashboard-insights
->
-> 注：ハイパーリンクを開く際は、リンクを右クリックし[新しいタブで開く]等で開いてください。
-
-
-
-1. 左側のナビゲーション メニューの [エンドポイント]⇒[脆弱性の管理]⇒[ダッシュボード]の順でクリックします。
-
-   ![](./media/lab3-4.png)
-
-2. [Microsoft Defender 脆弱性の管理ダッシュボード]ページが表示されます。全体を一通り確認します。
-
-   
-
-### タスク 5 - IDを表示する
-
-> [解説]
->
-> **Microsoft Defender for Identity**（旧称：Azure Advanced Threat Protection）は、オンプレミスの **Active Directory Domain Services (ADDS)** 環境を監視し、ID ベースの脅威をリアルタイムで検出・対応するためのセキュリティソリューションです。Defender for Identity ダッシュボードは、**ID 脅威の検出と応答（ITDR：Identity Threat Detection and Response）** に関する重要な情報を提供し、組織のセキュリティ体制を強化します。
->
-> なお、現在、**ADDS（Active Directory Domain Services）** 以外の環境もカバーするように進化しています。もともと **Microsoft Defender for Identity** はオンプレミスの AD を中心に設計されていましたが、クラウドの普及やハイブリッド環境の増加に伴い、**クラウドベースのIDシステム** にも対応するよう拡張されています。
->
-> https://learn.microsoft.com/ja-jp/defender-for-identity/dashboard
->
-> 注：ハイパーリンクを開く際は、リンクを右クリックし[新しいタブで開く]等で開いてください。
-
-
-
-1. 左側のナビゲーション メニューの [ID]をクリックし、[ダッシュボード]をクリックします。
-
-   ![](./media/lab3-5.png)
-
-2. [ITDR ダッシュボード]ページが表示されます。全体を一通り確認します。
-
-
-
-### タスク 6 - クラウドアプリを表示する
+### タスク 3 - クラウドアプリを表示する
 
 > [解説]
 >
@@ -147,7 +67,7 @@
 
 
 
-### タスク 7 - メールとコラボレーションで[攻撃シミュレーション]を設定する
+### タスク 4 - メールとコラボレーションで[攻撃シミュレーション]を設定する
 
 > [解説]
 >
