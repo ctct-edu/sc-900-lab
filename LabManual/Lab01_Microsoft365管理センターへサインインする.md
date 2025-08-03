@@ -140,6 +140,8 @@
 
 　　(7) 「Next」「Done」とクリックして終了します。
 
+　　Microsoft Entra 管理センターが英語表記の場合、画面右上の歯車のマーク「Settings」をクリックした後、左の「Language + region」をクリックし、Language と Regional format を選択し、[Apply] - [OK] をクリックして、いずれも日本語に変更することができます。
+
 <br>
 
 **参考：各管理センターの説明**
