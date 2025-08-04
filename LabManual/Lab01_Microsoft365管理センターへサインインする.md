@@ -123,12 +123,13 @@
      もし、多要素認証を実施する場合は以下の流れとなります。
 
    (1)「Let's Keep your account secure」の画面で「Next」をクリック
+   
    (2)「Keep your account secure」の「Start by getting the app」画面で「Next」をクリック
-
+   
    (3)「Keep your account secure」の「Set up your Account」画面で「Next」をクリック
-
+   
    (4)「Keep your account secure」の「Scan the QR code」画面が表示されます。
-
+   
    お手持ちのスマートフォンのMicrosoft Authenticatorアプリにて、「+」(画面右上にあります) - 「職場または学校のアカウント」 - 「QRコードをスキャン」と選択して、QRコードをスキャンします。 ブラウザーの 「Scan the QR code」画面ウィンドウに戻り「Next」をクリックします。
    ![](./media/lab1-6-1.png)
 
