@@ -27,17 +27,17 @@
 
 3. [サインインの状態を保持しますか] ページでは、 [いいえ] をクリックします 。
 
-4. [My Account]のページにサインインされます。画面左にある[Settings & Privacy]をクリックします。
+4. [My Account]のページにサインインされます。画面左にある[Settings & Privacy(設定およびプライバシー)]をクリックします。
 
-5. [Settings & Privacy]の画面にある[Display language]をクリックし、さらに[Change display language]をクリックします。
+5. [Settings & Privacy(設定およびプライバシー)]の画面にある[Display language(表示言語)]をクリックし、さらに[Change display language(表示言語の変更)]をクリックします。
 
    ![](./media/lab1-1.png)
 
    
 
-6. [Languages]の一覧から[Japanese]を選択し[Select]をクリックします。
+6. [Languages(言語)]の一覧から[Japanese(日本語)]を選択し[Select(選択)]をクリックします。
 
-7. [Update display language] と表示されますので、[Update]をクリックします。
+7. [Update display language(表示言語の更新)] と表示されますので、[Update(更新)]をクリックします。
 
 8. 表記が日本語に変わります。[はい、今すぐサインアウト]をクリックします。
 
