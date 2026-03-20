@@ -124,26 +124,23 @@
 
      もし、多要素認証を実施する場合は以下の流れとなります。
 
-   (1)「Let's Keep your account secure」の画面で「Next」をクリック
+   (1)「アカウントをセキュリティ保護しましょう」の画面で「次へ」をクリック
    
-   (2)「Keep your account secure」の「Start by getting the app」画面で「Next」をクリック
+   (2)「Microsoft Authenticator のインストール」画面で「次へ」をクリック
    
-   (3)「Keep your account secure」の「Set up your Account」画面で「Next」をクリック
+   (3)「アプリでアカウントをセットアップする」画面で「次へ」をクリック
    
-   (4)「Keep your account secure」の「Scan the QR code」画面が表示されます。
+   (4)「QR コードをスキャンします」画面が表示されます。
    
-   お手持ちのスマートフォンのMicrosoft Authenticatorアプリにて、「+」(画面右上にあります) - 「職場または学校のアカウント」 - 「QRコードをスキャン」と選択して、QRコードをスキャンします。 ブラウザーの 「Scan the QR code」画面ウィンドウに戻り「Next」をクリックします。
-   ![](./media/lab1-6-1.png)
+   お手持ちのスマートフォンのMicrosoft Authenticatorアプリにて、「+」(画面右上にあります) - 「職場または学校のアカウント」 - 「QRコードをスキャン」と選択して、QRコードをスキャンします。 ブラウザーの 
+   
+   (5) ブラウザーの 「QR コードをスキャンします」画面ウィンドウに戻り「次へ」をクリックします。
 
-　　(5) ブラウザーの 「Scan the QR code」画面ウィンドウに戻り「Next」をクリックします。
+   　(6)「試してみましょう」画面に表示される2桁の数値を Microsoft Authenticatorアプリ に入力し、多要素認証を実施します。
 
-　　(6)「Keep your account secure」の「Let's try it out」画面に表示される2桁の数値を Microsoft Authenticatorアプリ に入力し、多要素認証を実施します。
+　　(7) 「完了」をクリックして終了します。
 
-![](./media/lab1-6-2.png)
-
-　　(7) 「Next」「Done」とクリックして終了します。
-
-　　Microsoft Entra 管理センターが英語表記の場合、画面右上の歯車のマーク「Settings」をクリックした後、左の「Language + region」をクリックし、Language と Regional format を選択し、[Apply] - [OK] をクリックして、いずれも日本語に変更することができます。
+　　もしMicrosoft Entra 管理センターが英語表記の場合は、画面右上の歯車のマーク「Settings」をクリックした後、左の「Language + region」をクリックし、Language と Regional format を選択し、[Apply] - [OK] をクリックして日本語に変更することができます。
 
 <br>
 
