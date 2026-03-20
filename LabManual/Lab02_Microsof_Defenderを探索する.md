@@ -51,7 +51,7 @@
 
 > [解説]
 >
-> **Microsoft Defender for Cloud Apps**（旧称: Microsoft Cloud App Security）は、組織が使用する**クラウドアプリケーション**のセキュリティと可視性を強化するための**クラウドアクセスセキュリティブローカー（CASB: Cloud Access Security Broker）**ソリューションです。このサービスは、企業がクラウドサービスの利用状況を監視し、不正アクセスやデータ漏洩を防ぐための包括的なツールを提供します。
+> **Microsoft Defender for Cloud Apps**（旧称: Microsoft Cloud App Security）は、組織が使用する **クラウドアプリケーション** のセキュリティと可視性を強化するための **クラウドアクセスセキュリティブローカー（CASB: Cloud Access Security Broker）** ソリューションです。このサービスは、企業がクラウドサービスの利用状況を監視し、不正アクセスやデータ漏洩を防ぐための包括的なツールを提供します。
 >
 > https://learn.microsoft.com/ja-jp/defender-cloud-apps/what-is-defender-for-cloud-apps
 >
