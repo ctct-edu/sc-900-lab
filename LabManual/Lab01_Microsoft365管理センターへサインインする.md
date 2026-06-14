@@ -23,11 +23,11 @@
    | ユーザーID | `admin@XXXXXXXXXXX.onmicrosoft.com`<br />@マーク以降のXXXXXXXXXは各自異なります。 |
    | パスワード | Skillableで取得したパスワード                                |
 
-   
-
 3. [サインインの状態を保持しますか] ページでは、 [いいえ] をクリックします 。
 
-4. [My Account]のページにサインインされます。画面左にある[Settings & Privacy(設定およびプライバシー)]をクリックします。
+4. 画面左上の三本線をクリックしてメニューを表示させ。[My Account(マイアカウント)] - [Settings & Privacy(設定およびプライバシー)] をクリックします。
+
+   ![](./media/lab1-0.png)
 
 5. [Settings & Privacy(設定およびプライバシー)]の画面にある[Display language(表示言語)]をクリックし、さらに[Change display language(表示言語の変更)]をクリックします。
 
